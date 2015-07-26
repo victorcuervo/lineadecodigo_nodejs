@@ -1,7 +1,7 @@
 /**
  * @file helloworld-express.js
  * @version 1.0
- * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
  * @date   30/junio/2015
  * @url    http://lineadecodigo.com/nodejs/hola-mundo-con-node-js-y-express/
  * @description Programa con un Hola Mundo con NodeJS y Express.
