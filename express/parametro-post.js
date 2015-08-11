@@ -1,5 +1,5 @@
 /**
- * @file obtener-parametro-get.js
+ * @file parametro-post.js
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   26/julio/2015
